@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-Username: John Doe
+-Password: ThisIsNotAPassword</description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebe722f4-6432-4e61-a149-ef3ef1736cea</testCaseGuid>
+</TestCaseEntity>
