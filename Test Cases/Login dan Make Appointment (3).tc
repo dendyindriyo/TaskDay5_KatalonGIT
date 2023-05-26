@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-Facility: Tokyo CURA Healthcare Center
+-Check &quot;Apply for hospital readmission&quot;
+-Healthcare Program: Medicare
+-Visit Date: 28/05/2023
+-Comment: Asd</description>
+   <name>Login dan Make Appointment (3)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a812319a-0da4-41ce-a9c5-b6c5356647d5</testCaseGuid>
+</TestCaseEntity>

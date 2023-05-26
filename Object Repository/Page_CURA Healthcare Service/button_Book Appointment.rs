@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>40e97ee5-967d-4817-a4c1-d4156af57490</webElementGuid>
+      <webElementGuid>b1063fca-3d5c-4fd7-9d46-e301b83399e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btn-book-appointment</value>
-      <webElementGuid>04d176f8-a2ca-452c-9734-4942f6db6965</webElementGuid>
+      <webElementGuid>6fe7e70d-612f-4d0d-af61-6469601e6151</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>4862a720-9e41-4ea8-922b-2dceed7a0f40</webElementGuid>
+      <webElementGuid>24bbe9eb-2c4e-46b1-81a5-4b8192cda14a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-default</value>
-      <webElementGuid>3d165b68-004b-4dac-87b9-435f61bef2ec</webElementGuid>
+      <webElementGuid>f1d7df24-aa89-4d4b-a583-3816865321b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Book Appointment</value>
-      <webElementGuid>55597c2d-7669-4c54-88c1-cd76b47d038e</webElementGuid>
+      <webElementGuid>35715914-0eb1-4b2c-8f30-0bbd8401b649</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btn-book-appointment&quot;)</value>
-      <webElementGuid>9a1f945b-8666-43ac-8e9d-dabb0d793694</webElementGuid>
+      <webElementGuid>87b19122-7244-45d3-8899-6aa45c6ef096</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='btn-book-appointment']</value>
-      <webElementGuid>0ffd3757-ed6f-4bca-b22a-a34e4e97d5b5</webElementGuid>
+      <webElementGuid>a64cfe2f-49cb-4c05-8ae3-191d19ddfdd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='appointment']/div/div/form/div[6]/div/button</value>
-      <webElementGuid>0dab6697-4f66-471f-9d0e-a7ad3b4d01f7</webElementGuid>
+      <webElementGuid>33fff291-3a00-4fb2-a9a1-d89c2b353428</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Comment'])[1]/following::button[1]</value>
-      <webElementGuid>0853b2af-14c5-474e-a392-cf74308e8fe8</webElementGuid>
+      <webElementGuid>84f32711-6566-4b0f-addf-60fe7d174a01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Date (Required)'])[1]/following::button[1]</value>
-      <webElementGuid>97db4127-f3da-4039-a32b-edbfe8ab8591</webElementGuid>
+      <webElementGuid>59ab6259-c155-4a01-9957-98eed987d247</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[3]/preceding::button[1]</value>
-      <webElementGuid>bc721acd-3fb2-4e85-94df-a559db708d29</webElementGuid>
+      <webElementGuid>e318e352-0914-4981-86df-f24a9902234a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(678) 813-1KMS'])[1]/preceding::button[1]</value>
-      <webElementGuid>3af15a1f-1d39-4532-a0c3-963ae8fb1ce5</webElementGuid>
+      <webElementGuid>51ddfbff-a56a-406f-8b69-396001574262</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Book Appointment']/parent::*</value>
-      <webElementGuid>2ed18612-964c-4bf7-a227-44bf3a869c2d</webElementGuid>
+      <webElementGuid>4aec8589-179a-4c29-820f-52848282b9ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>8d2922ba-16a9-4dc6-9be6-49d66a51358d</webElementGuid>
+      <webElementGuid>68281473-bbe5-4554-93ef-899e41f0cc75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'btn-book-appointment' and @type = 'submit' and (text() = 'Book Appointment' or . = 'Book Appointment')]</value>
-      <webElementGuid>b5d398b9-2d5e-4341-9411-b7947c72f6aa</webElementGuid>
+      <webElementGuid>ab71a6a4-f155-4adf-a549-1533a22990a9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
