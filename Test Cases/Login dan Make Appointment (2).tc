@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-Facility: Seoul CURA Healthcare Center
+-Uncheck &quot;Apply for hospital readmission&quot;
+-Healthcare Program: None
+-Visit Date: 27/05/2023
+-Comment:</description>
+   <name>Login dan Make Appointment (2)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82c5b0d8-701f-4d33-8070-840f8a99b160</testCaseGuid>
+</TestCaseEntity>
