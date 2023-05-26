@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>-Facility: Hongkong CURA Healthcare Center
+-Check &quot;Apply for hospital readmission&quot;
+-Healthcare Program: Medicaid
+-Visit Date: 26/05/2023
+-Comment: Qwertyuiop</description>
+   <name>Login dan Make Appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4e0329c-f9d3-4787-ac9c-e57479db889b</testCaseGuid>
+</TestCaseEntity>
